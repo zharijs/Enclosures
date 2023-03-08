@@ -1,5 +1,8 @@
 # Enclosures
 3D printable enclosures for electronics projects and tools
+> .3DM files - Rhino sources
+> .STEP files - for importing in CADs
+> .STL files - for direct printing
 
 ## EV Simulator
 J1772 charging station tester by Geppetto Electronics
