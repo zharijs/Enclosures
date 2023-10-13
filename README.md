@@ -18,9 +18,10 @@
  - Deformation based button access
  - BOM for all components
 
-![DSC_0193](https://github.com/zharijs/Enclosures/assets/15273217/f80637f4-52d8-40d6-8a4f-eab262ccb79c)
-![DSC_0197](https://github.com/zharijs/Enclosures/assets/15273217/a8eaad46-82f6-473b-a689-7dee5a988fd4)
-![DSC_0195](https://github.com/zharijs/Enclosures/assets/15273217/360e3992-6aaf-4f5a-8f44-4086b9550c61)
+![DSC_0193](https://github.com/zharijs/Enclosures/assets/15273217/418f2569-b126-4833-9cfa-3e8954ca2386)
+![DSC_0195](https://github.com/zharijs/Enclosures/assets/15273217/a58282b8-85a2-40dd-9ec8-d3948b17ebeb)
+![DSC_0197](https://github.com/zharijs/Enclosures/assets/15273217/4c15e4a4-d26e-41d0-964d-8d19418e9ef4)
+
 
 
 ## EV Simulator
