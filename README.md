@@ -18,9 +18,10 @@
  - Deformation based button access
  - BOM for all components
 
-![DSC_0197](https://github.com/zharijs/Enclosures/assets/15273217/48f9a590-db76-4965-b63f-29ccc275582f)
-![DSC_0193](https://github.com/zharijs/Enclosures/assets/15273217/e40c267e-5ecd-4dda-8ba2-018b63c399e3)
-![DSC_0194](https://github.com/zharijs/Enclosures/assets/15273217/d4f9df6f-7772-4f99-9461-5a43b1618df1)
+![DSC_0193](https://github.com/zharijs/Enclosures/assets/15273217/f80637f4-52d8-40d6-8a4f-eab262ccb79c)
+![DSC_0197](https://github.com/zharijs/Enclosures/assets/15273217/a8eaad46-82f6-473b-a689-7dee5a988fd4)
+![DSC_0195](https://github.com/zharijs/Enclosures/assets/15273217/360e3992-6aaf-4f5a-8f44-4086b9550c61)
+
 
 ## EV Simulator
  J1772 charging station tester by Geppetto Electronics
